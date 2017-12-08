@@ -8,10 +8,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "moment": "^2.19.2",
+    "native-base": "^2.3.3",
     "react": "16.0.0",
     "react-native": "0.50.1",
-    "react-native-elements": "0.17.0",
-    "react-native-router-flux": "^4.0.0-beta.22",
     "react-native-simple-radio-button": "^2.7.0",
     "react-native-vector-icons": "^4.4.2",
     "react-navigation": "^1.0.0-beta.19"
@@ -24,5 +24,10 @@
   },
   "jest": {
     "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
   }
 }

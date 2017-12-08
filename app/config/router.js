@@ -1,8 +1,8 @@
 import React from 'react';
 import { TabNavigator, StackNavigator } from 'react-navigation';
 
-import ListPolls from '../ListPolls';
-import PollDetail from '../Details';
+import ListPolls from './../screens/ListPolls';
+import PollDetail from './../screens/Details';
 
 
 export const PollStack = StackNavigator({

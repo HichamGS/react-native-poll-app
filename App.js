@@ -5,9 +5,9 @@
 */
 
 import React, { Component } from 'react';
-import { Root } from './components/config/router';
+import { Root } from './app/config/router';
 
-export default class App extends Component<{}> {
+export default class App extends Component {
 	render() {
 		return <Root />;
 	}
