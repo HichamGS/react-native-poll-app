@@ -1,6 +1,11 @@
 # react-native-poll-app
-<h1>react native app</h1>
-<h2>Simple react native app listing polls</h2>
+<h2>Simple react-native app listing polls using [NativeBase](https://nativebase.io), [StackNavigator](https://reactnavigation.org/docs/navigators/stack) and [AsyncStorage](https://facebook.github.io/react-native/docs/asyncstorage.html)</h2>
+
+## Installation
+
+Run `npm install`
+Then Run `react-native run-android` or `react-native run-ios`
+
 
 <h4>List polls :</h4>
 <p align="center">
