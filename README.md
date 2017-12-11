@@ -1,6 +1,6 @@
-# react-native polls application
+# react-native polls app
 
-thus a simple react-native application listing polls using 
+This a simple react-native application listing polls using 
 [NativeBase](https://nativebase.io), [StackNavigator](https://reactnavigation.org/docs/navigators/stack) and [AsyncStorage](https://facebook.github.io/react-native/docs/asyncstorage.html)
 
 ## Installation
